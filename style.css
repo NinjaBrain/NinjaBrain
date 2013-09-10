@@ -1,0 +1,19 @@
+/* 
+Author: namn pÃ¥ fÃ¶rfattare
+Contact: mail
+Description: fÃ¶rklarar syfte med koden
+*/
+
+
+#All {
+background: url (kuk.jpg) no-repeat;width: 1300px; height;1024px; position:center;margin-left:auto;margin-right:auto;margin-top:-31px;margin-bottom:-20px;
+}
+
+body {                              
+background-color: #1dd7a9;
+color: #ffffff
+}
+
+#container {
+border: 1px solid #ff0000;
+}
